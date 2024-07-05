@@ -1,10 +1,10 @@
-## Baekjoon
+# Baekjoon
 Class 문제를 풀며 알아둬야 하는 내용이나 헷갈리는 부분 위주로 정리했습니다. 
-- [Class 1++] (Class 1++)
-- [Class 2++] (Class 2++)
-- [Class 3++] (Class 3++)
+- [Class 1++] (#Class 1++)
+- [Class 2++] (#Class 2++)
+- [Class 3++] (#Class 3++)
 
-# Class 1++
+## Class 1++
 - 1008번: 상대오차 고려
 - 1152번: 공백 위치와 개수 고려
 - 2439번: 행/열에 따른 반복문 조건 고려
@@ -18,6 +18,6 @@ Class 문제를 풀며 알아둬야 하는 내용이나 헷갈리는 부분 위�
 - 10809번: 아스키코드 값 알기
 - 10818번: visual studio에서는 실행이 안 되나, 백준에서는 정상 실행됨.  -> visual studio와 백준의 스택 크기가 달라서 그런 것으로 추정. (이 경우, 배열을 전역변수로 선언하면 visual studio에서도 실행이 가능하다. )
 
-# Class 2++
+## Class 2++
 
-# Class 3++
+## Class 3++
