@@ -1,8 +1,8 @@
 # Baekjoon
 Class 문제를 풀며 알아둬야 하는 내용이나 헷갈리는 부분 위주로 정리했습니다. 
-- [Class 1++] (#Class 1++)
-- [Class 2++] (#Class 2++)
-- [Class 3++] (#Class 3++)
+- [Class-1++] (#Class-1++)
+- [Class-2++] (#Class-2++)
+- [Class-3++] (#Class-3++)
 
 ## Class 1++
 - 1008번: 상대오차 고려
