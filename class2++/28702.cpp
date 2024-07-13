@@ -20,7 +20,7 @@ int check(string str1, string str2, int cnt){
 
 int main(){
     string str1, str2, str3;
-    int fb=0, f=0, b=0, i=0, cnt = 1;
+    int i = 0, cnt = 1;
     cin >> str1 >> str2 >> str3;
     
     if (str3.length() == 4) {
