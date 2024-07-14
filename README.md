@@ -39,7 +39,7 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
 cout.tie(NULL);
 ```
-- 1181번: 문자열 정렬 문제 -> ignore 함수로 getline을 사용한 뒤의 개행문자 삭제 가능. sort 함수의 이해, erase 함수를 이용하여 중복 문자 제거. 벡터를 이용하여 벡터에 익숙해지고자 했음. ${\textsf{\color{magenta}**!! 다시 보기 !!**}}$
+- 1181번: 문자열 정렬 문제 -> ignore 함수로 getline을 사용한 뒤의 개행문자 삭제 가능. sort 함수의 이해, erase 함수를 이용하여 중복 문자 제거. 벡터를 이용하여 벡터에 익숙해지고자 했음. $${\color{lightgreen}!! \space 다시 \space 보기 \space !!}$$
 ---
 
 ## Class 3++
